@@ -4,15 +4,13 @@
 
 ## **Foreword: Why Do You Need Monica?**
 
-Are you tired of jumping between dozens of different AI tools?
+Join over **10 million users** who have stopped jumping between dozens of different AI tools. Are you tired of:
 
-* Using Tool A for chatting, Tool B for drawing, Tool C for YouTube summaries, and Tool D for video generation...
-* Paying separate monthly fees for each tool, which adds up to a significant cost.
-* Most importantly, wasting your precious time and energy switching contexts and learning new interfaces.
+* Using Tool A for chatting, Tool B for drawing, Tool C for YouTube summaries, and Tool D for video generation?
+* Paying separate monthly fees for each tool, which adds up to a significant cost?
+* Wasting your precious time and energy switching contexts and learning new interfaces?
 
-**Monica is here to end this chaos.**
-
-It's the "Swiss Army Knife" of AI, integrating all the world's top AI models (GPT-4o, Claude 3, Runway, Pika, etc.) into one powerful assistant. One Monica account is equivalent to a super-brain, ready to help you with everything from daily office work and academic research to creative design.
+**Monica is here to end this chaos.** It's the "Swiss Army Knife" of AI, integrating all the world's top models (GPT-4o, Claude 3, Runway, Pika, etc.) into one powerful assistant. **Available everywhere you work**—as a browser extension for Chrome and Edge, as well as a mobile and desktop app.
 
 **>> [Click Here to Sign Up Free](https://fas.st/t/nrLHKRGB) <<**
 
