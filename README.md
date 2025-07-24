@@ -81,9 +81,14 @@ In short, **Unlimited Plan = Unlimited Superpowers + Maximum Efficiency**. For a
 
 ## **Limited-Time Special Offer**
 
-As an exclusive benefit for our readers, you can enjoy the maximum discount when you upgrade to an annual plan now.
+Now is the best time to upgrade through this page and take advantage of the official annual discount!
 
-**The annual plan is highly recommended for the best value.**
+**Annual Plan (Highly Recommended):**
+* **Price:** **US$199 / year**
+* **That's only $16.6 / month**
+* **(Save 33% with annual billing)**
+
+This is the best way to maximize your return on investment.
 
 ### **>> [Click Here to Upgrade to Monica Unlimited](https://fas.st/t/M4ZdU3Vh) <<**
 
