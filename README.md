@@ -1,7 +1,5 @@
 # **Monica.im: Your Ultimate AI Toolkit - The All-in-One Solution (2025 Updated Guide)**
 
-Last Updated: July 24, 2025
-
 ---
 
 ## **Foreword: Why Do You Need Monica?**
@@ -31,7 +29,8 @@ Without any professional expertise, you can turn your ideas or static images int
 * **Pika Labs Model:** Excels at generating imaginative and artistic animations.
 * **Runway ML Model:** Focuses on transforming existing images into dynamic videos.
 
-**>> [Try Pika Video Generation for Free](https://monica.im/en/ai-models/pika-ai?c=[YOUR_AFFILIATE_ID]&s=feature-pika) <<** | **>> [Try Runway Video Generation for Free](https://monica.im/en/ai-models/runway?c=[YOUR_AFFILIATE_ID]&s=feature-runway) <<**
+**>> [Try Pika Video Generation for Free](https://monica.im/en/ai-models/pika-ai?c=[YOUR_AFFILIATE_ID]&s=feature-pika) <<** 
+**>> [Try Runway Video Generation for Free](https://monica.im/en/ai-models/runway?c=[YOUR_AFFILIATE_ID]&s=feature-runway) <<**
 
 ### **2. AI Image Tools**
 
@@ -40,7 +39,8 @@ This toolset helps you effortlessly handle complex image editing and creation ta
 * **Animate a Picture:** Upload a photo of a person or animal, and the AI can bring it to life with movements like nodding and smiling. The results are stunning.
 * **AI Image Extender (Outpainting):** Is your image not wide enough? The AI can intelligently extend the background outwards, seamlessly filling in the details to fit any dimension.
 
-**>> [Try Animate Picture Tool for Free](https://monica.im/en/image-tools/animate-a-picture?c=[YOUR_AFFILIATE_ID]&s=feature-animate) <<** | **>> [Try the Image Extender Tool for Free](https://monica.im/en/image-tools/ai-image-extender?c=[YOUR_AFFILIATE_ID]&s=feature-extender) <<**
+**>> [Try Animate Picture Tool for Free](https://monica.im/en/image-tools/animate-a-picture?c=[YOUR_AFFILIATE_ID]&s=feature-animate) <<** 
+**>> [Try the Image Extender Tool for Free](https://monica.im/en/image-tools/ai-image-extender?c=[YOUR_AFFILIATE_ID]&s=feature-extender) <<**
 
 ### **3. The Super-Productivity Engine**
 
@@ -94,7 +94,7 @@ Monica offers a conditional money-back guarantee. As the specific refund window 
 * **For the detailed refund policy, please visit the official FAQ page:**
     [https://monica.im/help/FAQs/common_question](https://monica.im/help/FAQs/common_question)
 
-To apply, please have your order number ready and email the support team directly at `support@monica.im`.
+To apply, please have your order number ready and email the support team directly at `contact@monica.im`.
 
 ---
 
