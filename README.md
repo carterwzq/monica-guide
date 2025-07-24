@@ -14,7 +14,7 @@ Are you tired of jumping between dozens of different AI tools?
 
 It's the "Swiss Army Knife" of AI, integrating all the world's top AI models (GPT-4o, Claude 3, Runway, Pika, etc.) into one powerful assistant. One Monica account is equivalent to a super-brain, ready to help you with everything from daily office work and academic research to creative design.
 
-**>> [Click Here to Sign Up Free](https://monica.im/?c=[YOUR_AFFILIATE_ID]&s=main-link-top) <<**
+**>> [Click Here to Sign Up Free](https://fas.st/t/nrLHKRGB) <<**
 
 ---
 
@@ -22,15 +22,16 @@ It's the "Swiss Army Knife" of AI, integrating all the world's top AI models (GP
 
 Here are some of Monica's most popular features, designed to boost your productivity and creativity.
 
-### **1. Video & Animation Generation (Runway & Pika) **
+### **1. Video & Animation Generation**
 
 Without any professional expertise, you can turn your ideas or static images into engaging short videos and animations with a single sentence. It's perfect for content creators, marketers, and anyone looking to make their social media content stand out.
 
 * **Pika Labs Model:** Excels at generating imaginative and artistic animations.
 * **Runway ML Model:** Focuses on transforming existing images into dynamic videos.
 
-**>> [Try Pika Video Generation for Free](https://monica.im/en/ai-models/pika-ai?c=[YOUR_AFFILIATE_ID]&s=feature-pika) <<** 
-**>> [Try Runway Video Generation for Free](https://monica.im/en/ai-models/runway?c=[YOUR_AFFILIATE_ID]&s=feature-runway) <<**
+**>> [Try Pika Video Generation for Free]() <<** 
+
+**>> [Try Runway Video Generation for Free]() <<**
 
 ### **2. AI Image Tools**
 
@@ -39,8 +40,9 @@ This toolset helps you effortlessly handle complex image editing and creation ta
 * **Animate a Picture:** Upload a photo of a person or animal, and the AI can bring it to life with movements like nodding and smiling. The results are stunning.
 * **AI Image Extender (Outpainting):** Is your image not wide enough? The AI can intelligently extend the background outwards, seamlessly filling in the details to fit any dimension.
 
-**>> [Try Animate Picture Tool for Free](https://monica.im/en/image-tools/animate-a-picture?c=[YOUR_AFFILIATE_ID]&s=feature-animate) <<** 
-**>> [Try the Image Extender Tool for Free](https://monica.im/en/image-tools/ai-image-extender?c=[YOUR_AFFILIATE_ID]&s=feature-extender) <<**
+**>> [Try Animate Picture Tool for Free]() <<** 
+
+**>> [Try the Image Extender Tool for Free]() <<**
 
 ### **3. The Super-Productivity Engine**
 
@@ -49,9 +51,9 @@ Monica is your ultimate assistant for processing information and documents.
 * **YouTube Video Summary:** No more watching long videos. With one click, Monica can provide a complete summary, key timestamps, and core content in seconds.
 * **AI Audio-to-Text Transcription:** Upload meeting recordings, class notes, or any audio file, and Monica will accurately transcribe it into editable text, supporting multiple languages.
 
-**>> [Try YouTube Summary Tool for Free](https://monica.im/features/youtube-summary-with-chatgpt?c=[YOUR_AFFILIATE_ID]&s=feature-youtube) <<**
+**>> [Try YouTube Summary Tool for Free]() <<**
 
-**>> [Try Audio-to-Text for Free](https://monica.im/es/tools/ai-audio-to-text?c=[YOUR_AFFILIATE_ID]&s=feature-audio-to-text) <<**
+**>> [Try Audio-to-Text for Free]() <<**
 
 ### **4. Your Personal AI Genius**
 
@@ -59,21 +61,21 @@ Whether you're a student or a researcher, Monica provides powerful academic supp
 
 * **AI Math Solver:** Stuck on a complex math problem? Take a photo or type it in, and Monica will not only give you the answer but also provide detailed, step-by-step solutions to help you understand.
 
-**>> [Try AI Math Solver for Free](https://monica.im/es/study/ai-math-solver?c=[YOUR_AFFILIATE_ID]&s=feature-math-solver) <<**
+**>> [Try AI Math Solver for Free]() <<**
 
 ---
 
-## **Why Upgrade to the Pro Plan?**
+## **Why Upgrade to the Unlimited Plan?**
 
-The free plan lets you experience the basics, but the Pro plan truly unlocks Monica's full potential, turning it into your superpower.
+The free plan lets you experience the basics, but the Unlimited plan truly unlocks Monica's full potential, turning it into your superpower.
 
-* ✅ **Unlimited use of advanced models like GPT-4o and Claude 3** (Free plan has limits)
+* ✅ **Unlimited use of advanced models like GPT-4o, Claude 3.5 and DeepSeek V3 & R1**
 * ✅ **Unlock all advanced creative tools** (Higher monthly quotas for video generation, image animation, etc.)
 * ✅ **Faster response speeds and priority access**
 * ✅ **Process longer documents and videos**
 * ✅ **Completely Ad-Free**
 
-In short, **Pro = Unlimited Superpowers + Maximum Efficiency**. For anyone looking to gain a competitive edge with AI, this investment has an immeasurable ROI.
+In short, **Unlimited Plan = Unlimited Superpowers + Maximum Efficiency**. For anyone looking to gain a competitive edge with AI, this investment has an immeasurable ROI.
 
 ---
 
@@ -83,7 +85,7 @@ As an exclusive benefit for our readers, you can enjoy the maximum discount when
 
 **The annual plan is highly recommended for the best value.**
 
-### **>> [Upgrade to Monica Pro (Best Annual Price)](https://monica.im/?c=[YOUR_AFFILIATE_ID]&s=main-link-bottom-upgrade) <<**
+### **>> [Click Here to Upgrade to Monica Unlimited]() <<**
 
 ---
 
