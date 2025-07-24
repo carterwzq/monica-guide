@@ -1,4 +1,4 @@
-# **Monica.im: Your Ultimate AI Toolkit - The All-in-One Solution (2025 Updated Guide)**
+# **Monica.im: Your Ultimate AI Toolkit - The All-in-One Solution (2025 Guide)**
 
 ---
 
@@ -29,9 +29,9 @@ Without any professional expertise, you can turn your ideas or static images int
 * **Pika Labs Model:** Excels at generating imaginative and artistic animations.
 * **Runway ML Model:** Focuses on transforming existing images into dynamic videos.
 
-**>> [Try Pika Video Generation for Free]() <<** 
+**>> [Try Pika Video Generation for Free](https://fas.st/t/HxqATUYj) <<** 
 
-**>> [Try Runway Video Generation for Free]() <<**
+**>> [Try Runway Video Generation for Free](https://fas.st/t/USffjpYw) <<**
 
 ### **2. AI Image Tools**
 
@@ -40,9 +40,9 @@ This toolset helps you effortlessly handle complex image editing and creation ta
 * **Animate a Picture:** Upload a photo of a person or animal, and the AI can bring it to life with movements like nodding and smiling. The results are stunning.
 * **AI Image Extender (Outpainting):** Is your image not wide enough? The AI can intelligently extend the background outwards, seamlessly filling in the details to fit any dimension.
 
-**>> [Try Animate Picture Tool for Free]() <<** 
+**>> [Try Animate Picture Tool for Free](https://fas.st/t/srW2KS7w) <<** 
 
-**>> [Try the Image Extender Tool for Free]() <<**
+**>> [Try the Image Extender Tool for Free](https://fas.st/t/XbFKbGGE) <<**
 
 ### **3. The Super-Productivity Engine**
 
@@ -51,9 +51,9 @@ Monica is your ultimate assistant for processing information and documents.
 * **YouTube Video Summary:** No more watching long videos. With one click, Monica can provide a complete summary, key timestamps, and core content in seconds.
 * **AI Audio-to-Text Transcription:** Upload meeting recordings, class notes, or any audio file, and Monica will accurately transcribe it into editable text, supporting multiple languages.
 
-**>> [Try YouTube Summary Tool for Free]() <<**
+**>> [Try YouTube Summary Tool for Free](https://fas.st/t/wZiAxsiW) <<**
 
-**>> [Try Audio-to-Text for Free]() <<**
+**>> [Try Audio-to-Text for Free](https://fas.st/t/EjGH5mKJ) <<**
 
 ### **4. Your Personal AI Genius**
 
@@ -61,7 +61,7 @@ Whether you're a student or a researcher, Monica provides powerful academic supp
 
 * **AI Math Solver:** Stuck on a complex math problem? Take a photo or type it in, and Monica will not only give you the answer but also provide detailed, step-by-step solutions to help you understand.
 
-**>> [Try AI Math Solver for Free]() <<**
+**>> [Try AI Math Solver for Free](https://fas.st/t/LBWdGymp) <<**
 
 ---
 
@@ -85,7 +85,7 @@ As an exclusive benefit for our readers, you can enjoy the maximum discount when
 
 **The annual plan is highly recommended for the best value.**
 
-### **>> [Click Here to Upgrade to Monica Unlimited]() <<**
+### **>> [Click Here to Upgrade to Monica Unlimited](https://fas.st/t/M4ZdU3Vh) <<**
 
 ---
 
