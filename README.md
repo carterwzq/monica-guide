@@ -1,4 +1,4 @@
-# **Monica.im: Your Ultimate AI Toolkit - The All-in-One Solution (2025 Guide)**
+# **Monica.im: Your Ultimate AI Toolkit 2025 Guide + 33% Off Flash Sale**
 
 ---
 
@@ -13,6 +13,8 @@ Join over **10 million users** who have stopped jumping between dozens of differ
 **Monica is here to end this chaos.** It's the "Swiss Army Knife" of AI, integrating all the world's top models (GPT-4o, Claude 3, Runway, Pika, etc.) into one powerful assistant. **Available everywhere you work**—as a browser extension for Chrome and Edge, as well as a mobile and desktop app.
 
 **>> [Click Here to Sign Up Free](https://fas.st/t/nrLHKRGB) <<**
+
+![monica-hero-image](https://github.com/user-attachments/assets/958d62bf-0e1f-4c25-be74-14729290abfe)
 
 ---
 
