@@ -1,4 +1,4 @@
-# **Monica.im: Your Ultimate AI Toolkit 2025 Guide + 33% Off Flash Sale**
+# **Monica AI: Your Ultimate 2025 Guide + 33% Off Flash Sale**
 
 ---
 
