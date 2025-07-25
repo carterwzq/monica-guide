@@ -1,4 +1,4 @@
-# **Monica AI: Your Ultimate 2025 Guide + 33% Off Flash Sale**
+# **Monica AI: Your All-in-one AI Assistant 2025 Guide + 33% Off Flash Sale**
 
 ---
 
