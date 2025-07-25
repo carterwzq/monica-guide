@@ -83,9 +83,9 @@ In short, **Unlimited Plan = Unlimited Superpowers + Maximum Efficiency**. For a
 
 Now is the best time to upgrade through this page and take advantage of the official annual discount!
 
-**Annual Plan (Highly Recommended):**
-* **Price:** **US$199/year ($16.6/month)**
-* **Discount: 33% Off with annual billing)**
+**Unlimited Plan (Highly Recommended):**
+* **Price: $199/year ($16.6/month)**
+* **Discount: 33% Off with annual billing**
 
 This is the best way to maximize your return on investment.
 
