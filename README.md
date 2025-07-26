@@ -18,6 +18,16 @@ Join over **10 million users** who have stopped jumping between dozens of differ
 
 ---
 
+### **Table of Contents**
+
+- [Core Features Introduction](#core-features-introduction)
+- [Why Upgrade to the Unlimited Plan?](#why-upgrade-to-the-unlimited-plan)
+- [Limited-Time Special Offer](#limited-time-special-offer)
+- [How to Request a Refund?](#how-to-request-a-refund)
+- [Disclaimer](#disclaimer)
+
+---
+
 ## **Core Features Introduction**
 
 Here are some of Monica's most popular features, designed to boost your productivity and creativity.
